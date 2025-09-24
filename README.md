@@ -8,7 +8,7 @@ I'm a third-year Mechanical Engineering student interested in:
 
 ## Skills
 - **CAD:** SolidWorks, AutoCAD
-- **Simulation:** Ansys, MATLAB
+- **Simulation:** Ansys, MATLAB (beginner)
 - **programming (learning/beginner):** Python, C++
 - **other:** Excel, Project Management basics
 
