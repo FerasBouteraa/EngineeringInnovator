@@ -2,7 +2,7 @@
 
 I'm a third-year Mechanical Engineering student interested in:
 - Mechanical design and simulation
-- CAD (solifWorks) and FEA (ANSYS)
+- CAD (solidWorks) and FEA (ANSYS)
 - Programming in Python and MATLAB
 - Product design and problem-solving
 
