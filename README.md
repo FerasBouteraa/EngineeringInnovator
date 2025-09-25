@@ -1,4 +1,4 @@
-# Hi, I'm the EngineeringInnovator!
+# Hi,
 
 I'm a third-year Mechanical Engineering student interested in:
 - Mechanical design and simulation
