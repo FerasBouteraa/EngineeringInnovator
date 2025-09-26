@@ -1,6 +1,6 @@
 # Hi,
 
-I'm a third-year Mechanical Engineering student interested in:
+I'm a third-year Mechanical Engineering (Hons) student interested in:
 - Mechanical design and simulation
 - CAD (Creo) and FEA (ANSYS)
 - Programming in Python and MATLAB
