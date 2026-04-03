@@ -15,7 +15,7 @@ I'm a third-year Mechanical Engineering (Hons) student interested in:
 - **Formula Student** Suspension & Steering for the DMU Formula Student team
 
 ## 🎓 Key Reports
-- These are selected works from my third-year Mechanical Engineering modules:
+### These are selected works from my third-year Mechanical Engineering modules:
 - <img width="550" height="313" alt="image" src="https://github.com/user-attachments/assets/e6818c29-9b84-4fcb-a3db-d59a210e412d" />
 - Suspension & Steering Interim Report [Click Here](./Screening.pdf)
 
