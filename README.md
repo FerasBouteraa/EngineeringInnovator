@@ -9,7 +9,7 @@ I'm a third-year Mechanical Engineering (Hons) student interested in:
 ## Skills
 - **CAD:** Creo, Spaceclaim
 - **Simulation:** Ansys FEA, MATLAB (beginner), Susprog3d (beginner)
-- **other:** Excel, Project Management basics
+- **Other:** Excel, Project Management basics
 
 ## Projects
 
