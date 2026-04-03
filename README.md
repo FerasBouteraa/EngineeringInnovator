@@ -16,6 +16,9 @@ I'm a third-year Mechanical Engineering (Hons) student interested in:
 
 ## 🎓 Assignment Highlights
 - These are selected works from my third-year Mechanical Engineering modules: [Click Here](./Assignment%20Highlights)
+### 📄 Key Reports
+* [Download/View Full Suspension Design Report](./Assignment%20Highlights/Suspension_Report.pdf)
+* [View FEA Results Summary](./Assignment%20Highlights/FEA_Analysis.pdf)
 
 ## 💻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/feras-b-151797288)
