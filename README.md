@@ -12,6 +12,6 @@ I'm a third-year Mechanical Engineering (Hons) student interested in:
 - **Other:** Excel, Project Management basics
 
 ## Projects
-
+- **Formula Student** Suspension & Steering for the DMU Formula Student team
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/feras-b-151797288)
