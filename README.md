@@ -14,8 +14,8 @@ I'm a third-year Mechanical Engineering (Hons) student interested in:
 ## 📝 Projects
 - **Formula Student** Suspension & Steering for the DMU Formula Student team
 
-## 🎓 Assignment Highlights
-- These are selected works from my third-year Mechanical Engineering modules: [Click Here](./Assignment%20Highlights)
+## 🎓 Key Reports
+- These are selected works from my third-year Mechanical Engineering modules: [Click Here](./)
 
 ## 💻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/feras-b-151797288)
