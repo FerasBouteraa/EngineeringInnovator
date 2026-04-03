@@ -6,17 +6,16 @@ I'm a third-year Mechanical Engineering (Hons) student interested in:
 - Programming in Python and MATLAB
 - Product design and problem-solving
 
-## Skills
+## 🪚 Skills
 - **CAD:** Creo, Spaceclaim
 - **Simulation:** Ansys FEA, MATLAB (beginner), Susprog3d (beginner)
 - **Other:** Excel, Project Management basics
 
-## Projects
+## 📝 Projects
 - **Formula Student** Suspension & Steering for the DMU Formula Student team
 
 ## 🎓 Assignment Highlights
-- These are selected works from my third-year Mechanical Engineering modules:
-- [Click Here](./Assignment%20Highlights)
+- These are selected works from my third-year Mechanical Engineering modules: [Click Here](./Assignment%20Highlights)
 
-## Connect with Me
+## 💻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/feras-b-151797288)
